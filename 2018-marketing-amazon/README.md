@@ -8,6 +8,8 @@ Working at InMarket as a data scientist, I collaborated with the Chief Marketing
 
 2018: https://www.wsj.com/articles/natural-grocers-shrug-off-amazon-whole-foods-threat-1535313316
 
-Business Insider: Most Amazon Go stores are closed on the weekends — here's why: [Business Insider Weblink](https://www.businessinsider.com/amazon-go-stores-close-on-weekends-2018-10), [Downloaded PDF](businessinsider-amazon-go.pdf)
+WSJ: Natural Grocers Shrug Off Amazon-Whole Foods Threat [Weblink](https://www.wsj.com/articles/natural-grocers-shrug-off-amazon-whole-foods-threat-1535313316), [Downloaded PDF](wsj-amazon-natural-grocers.pdf)
+
+Business Insider: Most Amazon Go stores are closed on the weekends — here's why: [Weblink](https://www.businessinsider.com/amazon-go-stores-close-on-weekends-2018-10), [Downloaded PDF](businessinsider-amazon-go.pdf)
 
 
