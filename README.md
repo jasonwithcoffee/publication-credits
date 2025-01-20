@@ -1,4 +1,4 @@
-# publication-credits
+# Publication & Credits
 Repository with links and archives to publications with my work
 
 Marketing Campaign on Impossible Meat
